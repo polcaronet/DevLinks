@@ -1,9 +1,14 @@
+
 {
-  "buildCommand": [
-    
-      {
-        "souce": "/(.*)",
-        "destination": "/"
-      }
+  "buildCommand": "next build"
+}
+
+{
+  "rewrites": [
+    {
+      "souce": "/(.*)",
+      "destination": "/"
+    }
   ]
 }
+

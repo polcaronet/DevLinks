@@ -1,8 +1,9 @@
 {
-  "rewrites": [
-    {
-      "souce": "/(.*)",
-      "destination": "/"
-    }
+  "buildCommand": [
+    
+      {
+        "souce": "/(.*)",
+        "destination": "/"
+      }
   ]
 }

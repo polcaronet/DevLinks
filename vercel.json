@@ -1,9 +1,8 @@
 {
- "buildCommand": [
+ "rwrites": [
     {
       "source": "/(.*)",
        "destination": "/"
     }
  ]
 }
-
